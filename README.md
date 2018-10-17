@@ -30,7 +30,7 @@ By default mine ran on port 8080.
 So if i go to http://127.0.0.1:8080/struts2-showcase-2.3.14 it will direct me to the struts landing page.  
 
 You should see somthing like:
-![alt text](https://github.com/EdgeSync/Struts_Version_Scanner/tree/master/images/struts_running.png)
+!(https://raw.githubusercontent.com/EdgeSync/Struts_Version_Scanner/master/images/struts_running.png)
 
 
 ### check_struts_version.sh
@@ -50,6 +50,6 @@ This returns a HTTP_STATUS_CODE - we are looking for a 200 - which means this fi
 
 On my lab setup with default configuration, I am able to verify the version as I can pull back the showcase.jsp. 
 
-![alt text](https://github.com/EdgeSync/Struts_Version_Scanner/tree/master/images/struts_check.png)
+!(https://raw.githubusercontent.com/EdgeSync/Struts_Version_Scanner/master/images/struts_check.png)
 
 
